@@ -6,6 +6,6 @@ setup(
         "numpy==1.17.2",
         "tqdm==4.36.1",
         "transformer==2.3.0",
-        "pytorch_transformers==1.2.0",
+        "pytorch-transformers==1.2.0",
     ]
 )
